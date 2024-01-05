@@ -12,11 +12,6 @@
 
 
 
-![p-4.jpg](images/p-4.jpg)
-
-[p-4.jpg](images/p-4.jpg)
-
-
 
 ![p-3.jpg](images/p-3.jpg)
 
